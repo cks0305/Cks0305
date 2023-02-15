@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**cks0305/Cks0305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+# HORARIO
+| LUNES   | MARTES  | MIERCOLES | JUEVES  | VIERNES | HORA     |
+|---------|---------|-----------|---------|---------|----------|
+| COCINAR | LIMPIAR | LIMPIAR   | JUGAR   | COCINAR | 12:00 AM |
+| JUGAR   | JUGAR   | COCINAR   | TAREA   | TAREA   | 2:00 PM  |
+| TAREA   | TAREA   | TAREA     | LIMPIAR | LIMPIAR | 4:00 PM  |
+| HABLAR  | HABLAR  | JUGAR     | HABLAR  | JUGAR   | 6:00 PM  |
